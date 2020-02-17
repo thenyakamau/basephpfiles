@@ -12,7 +12,7 @@ $data = array(
     
 );
 
-$apikey = "AIzaSyB4susrhz3fPxeiMEFCuK97xrdWh6oqwec";
+$apikey = "Insert Your own legacy server key";
 
 
 
